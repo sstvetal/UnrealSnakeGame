@@ -9,7 +9,7 @@
 #include "Blueprint/WidgetTree.h"
 #include "Blueprint/UserWidget.h"
 
-namespace LifeExe
+namespace TPS
 {
 namespace Test
 {

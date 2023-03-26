@@ -1,11 +1,11 @@
 #if WITH_AUTOMATION_TESTS
 
-#include "SnakeGame/Tests/Utils/TestUtils.h"
+#include "<Path>/Utils/TestUtils.h"
 #include "Misc/OutputDeviceNull.h"
 #include "AutomationBlueprintFunctionLibrary.h"
 #include "BufferVisualizationData.h"
 
-namespace LifeExe
+namespace TPS
 {
 namespace Test
 {
